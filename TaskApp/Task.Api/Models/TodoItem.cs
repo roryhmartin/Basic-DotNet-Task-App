@@ -6,7 +6,7 @@ public class TodoItem
 
     public string Name { get; set; }
 
-    public string Descripition { get; set; }
+    public string Description { get; set; }
 
     public bool IsComplete { get; set; }
 }
