@@ -1,0 +1,11 @@
+# Ignore Visual Studio and Rider directories
+.vs/
+.idea/
+
+# Ignore build artifacts
+[Bb]in/
+[Oo]bj/
+
+# Other common temporary files
+*.user
+*.log
